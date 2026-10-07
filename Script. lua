@@ -1,0 +1,7 @@
+### <:p_script:1544823854751424632> **HYPNOSIS LOADER**
+> Copy the loadstring code below into your executor.
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lixxWW/ViolenceDistrict/refs/heads/main/ViolenceDistrict.lua"))()
+```
+-# <:p_shield:1544823862330531840> Executable in Solara, Wave, Delta, Synapse & all Executors
